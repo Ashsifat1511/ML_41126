@@ -1,7 +1,7 @@
-# 🧬 GSE68086 Tumor-Educated Platelets Analysis - Complete Documentation
+#  Cancer detection from gene expression profiles of peripheral blood cells
 
 ## 📋 Project Overview
-This project implements a **machine learning pipeline** to analyze the GSE68086 dataset, which contains **tumor-educated platelets (TEPs)** data for cancer classification. The goal is to distinguish between different cancer types and healthy samples using gene expression patterns in platelets.
+This project implements a **machine learning pipeline** to analyze the GSE68086 dataset, which contains  data for cancer classification. The goal is to distinguish between different cancer types and healthy samples using gene expression patterns in platelets.
 
 ---
 
@@ -176,12 +176,12 @@ Cross-Validation → Performance Evaluation
 ## 🎓 **KEY LEARNING POINTS FOR PRESENTATION**
 
 ### **Technical Skills Demonstrated:**
-- ✅ Large-scale genomic data handling
-- ✅ Advanced feature selection techniques
-- ✅ Multiple machine learning algorithms
-- ✅ Hyperparameter optimization
-- ✅ Cross-validation and robust evaluation
-- ✅ Professional data visualization
+-  Large-scale genomic data handling
+-  Advanced feature selection techniques
+-  Multiple machine learning algorithms
+-  Hyperparameter optimization
+-  Cross-validation and robust evaluation
+-  Professional data visualization
 
 ### **Challenges Addressed:**
 - 🔄 **High Dimensionality:** 57K features → 1K (curse of dimensionality)
@@ -288,7 +288,7 @@ def create_dynamic_model_visualizations(trainer):
 
 ---
 
-### **🎯 EXECUTION ORDER FOR TEACHER DEMO:**
+### **🎯 EXECUTION ORDER FOR DEMO:**
 
 #### **Step 1: Run Data Exploration** *(Cells 3-19)*
 ```
